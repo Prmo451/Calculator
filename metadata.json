@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A clean, responsive, and beautiful calculator supporting basic and scientific operations, tactile animations, history, and keyboard shortcuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
